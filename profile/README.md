@@ -9,10 +9,10 @@ Bem-vindo ao repositório oficial da nossa família!
 Somos uma família que ama tecnologia e colaboração. Usamos este espaço para compartilhar projetos, ideias e aprender uns com os outros.
 
 ## Projetos
-Aqui você encontrará uma variedade de projetos, desde receitas de família até aplicativos de gerenciamento doméstico.
+Aqui você encontrará uma variedade de projetos com diferentes linguagens.
 
 ## Contribuição
-Encorajamos todos os membros da família a contribuir. Se você tem uma ideia ou projeto, sinta-se à vontade para adicionar!
+O foco do GitHub da família é a criação de diferentes projetos juntos, então a contribuição sempre é em equipe.
 
 ## Contato
 Para entrar em contato conosco, por favor, abra uma issue ou envie um pull request.
