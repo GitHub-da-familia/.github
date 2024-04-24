@@ -1,4 +1,6 @@
-# GitHub da Família
+<div style="display: flex" style="text-align: center">
+  # GitHub da Família
+</div>
 <div style="display: inline_block">
   <img align="center" alt="githubfamilia" src="https://cdn.discordapp.com/attachments/932392751167832115/1232723832519790632/Novo_Projeto_2.png?ex=662a7f08&is=66292d88&hm=42501341c1faf5bdfdcde62b08f0da13b073310d5973fc69e301a887b8888227&" />
 <div/>
