@@ -1,4 +1,7 @@
 # GitHub da Família
+<div style="display: inline_block">
+  <img align="center" alt="githubfamilia" src="https://avatars.githubusercontent.com/u/167998156?s=400&u=4cb2a51f5f335a8130edfef40f2e4292fc6ceb63&v=4" />
+<div/>
 
 Bem-vindo ao repositório oficial da nossa família!
 
