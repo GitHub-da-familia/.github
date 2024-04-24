@@ -4,7 +4,10 @@
 
 Bem-vindo ao repositório oficial da nossa família!
 
-## Sobre Nós 
+<div align="center">
+  ## Sobre Nós
+</div>
+
 Somos uma família que ama tecnologia e colaboração. Usamos este espaço para compartilhar projetos, ideias e aprender uns com os outros.
 
 ## Projetos
